@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    background: white;
+}
+#contenedor{
+    width: 1000px;
+    height: 900px;
+    background: gray; 
+      margin:auto;
+    margin-top: 10px;
+    text-decoration-color:rgb(4, 128, 0);
+}
+header{
+    width: 1000px;
+    height: 300px;
+    background: purple;
+}
+#baner{
+    width: 700px;
+    height: 300px;
+    background: gray;
+    float: right; }
+#logo{
+    width: 300px;
+    height: 300px;
+    background: green;
+    float: right;
+}   
+#logo img{
+    width: 300px;
+    height: 300px; }
+   
+ main{
+    background: purple;
+    width: 1000px;
+    height: 300px; }
+    
+    #izquierda{
+    background: blue;
+    width: 300px;
+    height: 300px;
+float: left; }
+#izquierda img{
+    width: 300px;
+    height: 300px;
+}
+#derecha{
+    background: blue;
+    width: 700px;
+    height: 300px;
+    float: right; 
+}
+
+footer{
+    background: skyblue;
+    width: 1000px;
+    height: 300px;
+    
+}
+#Fiz{
+    width: 300px;
+    height: 300px;
+    background: peru;
+    float: left;
+}
+#Fder{
+    width: 700px;
+    height: 300px;
+    background: orange;
+    float: right;
+}
+#Fiz img{
+    width: 300px;
+    height: 300px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0;
+    line-height: 420px;
+}

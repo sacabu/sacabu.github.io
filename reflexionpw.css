@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    background: white;
+}
+#contenedor{
+    width: 500px;
+    height: 800px;
+    background-color: aqua;
+     margin:auto;
+    margin-top: 10px;
+}
+header{
+    width: 500px;
+    height: 100px;
+    background: tomato;
+}
+#titulo{
+    width: 500px;
+height: 100px;
+background: peachpuff;
+text-align: center;
+line-height: 100px;
+}
+main{
+    width: 500px;
+height: 600px;
+background: gold;
+}
+#texto{
+    width: 500px;
+    height: 600px;
+    background-color: aliceblue;
+     text-align: justify;
+    font-size: 12px;
+   line-height: 20px;
+    
+}
+footer{
+    width: 500px;
+    height: 100px;
+    background-color: bisque;
+}
+#final{
+    width: 500px;
+    height: 100px;
+    background-color: peachpuff;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0;
+    line-height: 180px;
+}

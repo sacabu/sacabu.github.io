@@ -1,0 +1,98 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#contenedor{
+    width: 1000px;
+    height: 1000px;
+     background: wheat; 
+      margin:auto;
+    margin-top: 10px;
+
+}
+header{
+    width: 1000px;
+    height: 250px;
+background: teal;
+}
+#C1{
+    width: 700px;
+    height: 250px;
+    background: steelblue;
+float: right;
+}
+#C2{
+    width: 300px;
+    height: 250px;
+    background: tan;
+float: left;
+}
+#C2 img{
+    width: 100%;
+    height: 100%;
+}
+main{
+    width: 1000px;
+    height: 500px;
+    background: tomato;
+
+}
+#C3{
+    width: 700px;
+    height: 250px;
+    background: skyblue;
+float: right;
+}
+#C4{
+    width: 300px;
+    height: 250px;
+    background: yellowgreen;
+    float: left;
+}
+#C4 img{
+    width: 100%;
+    height: 100%;
+}
+#C5{
+    width: 700px;
+    height: 250px;
+    background-color: greenyellow;
+    float: right;
+}
+#C6{
+    width: 300px;
+    height: 250px;
+    background: hotpink;
+    float: left;
+}
+#C6 img{
+    width: 100%;
+    height: 100%;
+}
+footer{
+    width: 1000px;
+    height: 250px;
+    background-color: bisque;
+
+}
+#C7{
+    width: 700px;
+    height: 250px;
+    background-color: antiquewhite;
+    float: right;
+}
+#C8{
+
+    width: 300px;
+    height: 250px;
+    background-color: whitesmoke;
+    float: left;
+}
+#C8 img{
+    width: 100%;
+    height: 100%;
+}
+ul{
+    
+    line-height: 270px;
+}
